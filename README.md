@@ -124,7 +124,7 @@ exit 1
 
 ---
 
-## Experimental Results (Quoted from the Paper)
+## Experimental Results
 
 ### Classification Performance (Accuracy)
 
@@ -150,7 +150,7 @@ These results demonstrate that FCH:
 
 ---
 
-## Model Complexity (from the Paper)
+## Model Complexity
 
 | Model                    | Params (MB) | GFLOPs |
 | ------------------------ | ----------- | ------ |
