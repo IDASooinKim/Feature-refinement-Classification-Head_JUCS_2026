@@ -118,8 +118,8 @@ If you use this code or FCH in your research, please cite:
 @article{kim2024fch,
   title   = {Improvement of Classification Models through Graph Neural Networks and Batchwise Relational Encoding},
   author  = {Kim, Sooin and Kim, Kyungtae and Kim, Donghoon and Hwang, Doosung},
-  journal = {---},
-  year    = {2024}
+  journal = {J.UCS journal of universal computer science},
+  year    = {2026}
 }
 ```
 
