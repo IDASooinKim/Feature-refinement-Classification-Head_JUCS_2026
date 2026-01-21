@@ -130,12 +130,3 @@ If you use this code or FCH in your research, please cite:
 This project is released under the MIT License.
 
 ---
-
-## Acknowledgement
-
-This implementation is based on the paper:
-*Improvement of Classification Models through Graph Neural Networks and Batchwise Relational Encoding*.
-
----
-
-레옹
