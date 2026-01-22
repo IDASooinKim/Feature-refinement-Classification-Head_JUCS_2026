@@ -1,4 +1,8 @@
-<center># FCH: Feature-refinement Classification Head</center>
+<div align="center">
+  # FCH: Feature-refinement Classification Head
+</div>
+
+![Architecture Diagram](./figures/architecture.jpg)
 
 This repository provides a PyTorch implementation of **FCH (Feature-refinement Classification Head)**, a lightweight and modular classification head proposed in the paper:
 
