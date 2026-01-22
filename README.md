@@ -159,7 +159,7 @@ These results demonstrate that FCH:
 
 <div align="center">
 
-# T-SNE visualization of feature embeddings
+T-SNE visualization of feature embeddings
   
 </div>
 
