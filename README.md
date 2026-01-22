@@ -155,6 +155,9 @@ These results demonstrate that FCH:
 * Achieves competitive accuracy with far fewer parameters than large-scale models
 
 
+
+
+
 ![Architecture Diagram](./figures/distribution.jpg)
 
 <div align="center">
