@@ -154,9 +154,14 @@ These results demonstrate that FCH:
 * Provides strong gains on CIFAR-10 and STL-10
 * Achieves competitive accuracy with far fewer parameters than large-scale models
 
+
 ![Architecture Diagram](./figures/distribution.jpg)
 
-T-SNE visualization of feature embeddings
+<div align="center">
+
+# T-SNE visualization of feature embeddings
+  
+</div>
 
 ---
 
