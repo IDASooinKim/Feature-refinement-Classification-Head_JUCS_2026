@@ -188,6 +188,9 @@ T-SNE visualization of feature embeddings
 
 ## Model Complexity
 
+<div align="center">
+
+
 | Model                    | Params (MB) | GFLOPs |
 | ------------------------ | ----------- | ------ |
 | EfficientNetV2-L         | 454.05      | 12.41  |
@@ -197,6 +200,8 @@ T-SNE visualization of feature embeddings
 | RBF-FCH (ViT-B/16, p=1)  | 333.75      | 15.52  |
 
 FCH (ResNet-18) delivers competitive accuracy with only ~43 MB parameters and ~4.2 GFLOPs.
+
+</div>
 
 ---
 
