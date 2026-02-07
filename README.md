@@ -15,6 +15,7 @@ FCH enhances image classification by modeling **inter-sample relationships withi
 
 ---
 ## Abstract
+
 Traditional neural network classifiers assume that training samples are statistically independent. 
 However, real-world data often exhibit inter-sample dependencies and structural correlations, making this assumption inadequate for capturing rich and discriminative feature representations. 
 Conventional classifiers treat data samples as independent, overlooking relational information that is essential for learning accurate and expressive feature representations. 
