@@ -1,6 +1,6 @@
 <div align="center">
   
-  # FCH: Feature-refinement Classification Head
+  # Feature-Refinement Classification Head (FCH) for Modeling Inter-Sample Relationships in Neural Networks
   
 </div>
 
