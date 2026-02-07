@@ -146,6 +146,8 @@ exit 1
 
 ### Classification Performance (Accuracy)
 
+<div align="center">
+
 | Model                        | CIFAR-10  | MNIST     | STL-10    |
 | ---------------------------- | --------- | --------- | --------- |
 | EfficientNetV2-L             | 0.991     | 0.998     | 0.950     |
@@ -160,6 +162,8 @@ exit 1
 | CL-FCH (ViT-B/16, p=1)       | 0.976     | 0.996     | 0.949     |
 | **RBF-FCH (ViT-B/16, p=1)**  | **0.979** | **0.997** | **0.953** |
 
+</div>
+
 These results demonstrate that FCH:
 
 * Consistently improves performance across datasets and backbones
@@ -168,9 +172,11 @@ These results demonstrate that FCH:
 
 
 
-
+<div align="center">
 
 ![Architecture Diagram](./figures/distribution.jpg)
+
+</div>
 
 <div align="center">
 
