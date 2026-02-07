@@ -14,6 +14,15 @@ Sooin Kim, Kyungtae Kim, Donghoon Kim, Doosung Hwang
 FCH enhances image classification by modeling **inter-sample relationships within each mini-batch** using a Graph Neural Network (GNN). It refines backbone feature embeddings through batchwise graph construction and joint optimization of classification and structure-preserving losses.
 
 ---
+## Abstract
+Traditional neural network classifiers assume that training samples are statistically independent. 
+However, real-world data often exhibit inter-sample dependencies and structural correlations, making this assumption inadequate for capturing rich and discriminative feature representations. 
+Conventional classifiers treat data samples as independent, overlooking relational information that is essential for learning accurate and expressive feature representations. 
+To address this limitation, we propose FCH (Feature-refinement Classification Head), a novel classification head that constructs adjacency matrices to model inter-sample relationships among embedding vectors within each batch and refines feature representations through transfer learning and a graph neural network.
+FCH can be seamlessly integrated into existing architectures and supports end-to-end learning through the joint optimization of cross-entropy and structure-preserving losses.
+Experimental results demonstrate that modeling inter-sample relationships significantly enhances classification performance. 
+FCH consistently improves accuracy, precision, recall, and F1-score across diverse backbone architectures on standard benchmarks such as CIFAR-10, MNIST, and STL-10. Moreover, it maintains strong performance even in lightweight models, highlighting its robustness and scalability across model sizes. FCH is a generalizable and scalable module that enhances image classification by leveraging structural relationships, thereby strengthening representational capacity and overall model performance.
+---
 
 ## Key Ideas
 
