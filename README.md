@@ -9,6 +9,7 @@
 This repository provides a PyTorch implementation of **FCH (Feature-refinement Classification Head)**, a lightweight and modular classification head proposed in the paper:
 
 **Improvement of Classification Models through Graph Neural Networks and Batchwise Relational Encoding**
+
 Sooin Kim, Kyungtae Kim, Donghoon Kim, Doosung Hwang
 
 FCH enhances image classification by modeling **inter-sample relationships within each mini-batch** using a Graph Neural Network (GNN). It refines backbone feature embeddings through batchwise graph construction and joint optimization of classification and structure-preserving losses.
